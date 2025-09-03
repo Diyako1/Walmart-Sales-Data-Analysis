@@ -5,10 +5,6 @@
 
 I analyze Walmart sales data using SQL and Python. The pipeline cleans CSV files, loads them into PostgreSQL, and runs queries to find payment patterns, branch performance, and revenue trends. Built this to answer common retail questions quickly.
 
-## Demo
-
-Coming soon
-
 ## Features
 
 - **Data Pipeline** - Cleans CSV files and loads into PostgreSQL
